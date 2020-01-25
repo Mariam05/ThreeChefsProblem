@@ -11,7 +11,7 @@
 		</ul> </ul>
 		
 ### UML Class Diagram 
-This can also be found as a png file in the project zip file. 
+This can also be found as a png file in the project zip file. <br>
 ![UML](ThreeChefsUML.png)
 
 ### UML Sequence Diagram
