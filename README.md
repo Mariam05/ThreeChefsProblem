@@ -1,5 +1,15 @@
 # ASSIGNMENT 1: The Sandwich Making Chefs Problem :hamburger:
 
+
+#### README Contents:
+<ul>
+<li>UML Class Diagram</li>
+<li>UML Sequence Diagram</li>
+<li> Naming and Organization of Files </li>
+		<ul> <li>Execution Instructions</li>
+		<li>Class Descriptions</li>
+		</ul> </ul>
+		
 ### UML Class Diagram 
 This can also be found as a png file in the project zip file. 
 ![UML](ThreeChefsUML.png)
