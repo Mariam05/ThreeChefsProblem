@@ -1,7 +1,7 @@
 /**
  * Main is the producerConsumer class
  * 
- * @author Mariam
+ * @author Mariam Almalki
  *
  */
 public class Main {

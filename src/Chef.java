@@ -1,8 +1,27 @@
-
+/**
+ * This class is used to encapsulate the behaviour of the chefs. 
+ * Each chef has an unlimited quantity of only one ingredient
+ * 
+ * @author Mariam Almalki
+ *
+ */
 public class Chef implements Runnable {
-	private Table table; // the table the chef is at
-	private int item; // the ingredient that this chef has
-
+	
+	/**
+	 * The table the chef is at 
+	 */
+	private Table table;
+	
+	/**
+	 * The ingredient that this chef has 
+	 */
+	private int item; 
+	
+	/**
+	 * Construct a new chef 
+	 * @param table the Table object they are on
+	 * @param item an integer representing the ingredient that the chef has
+	 */
 	public Chef(Table table, int item) {
 		this.table = table;
 		this.item = item;
