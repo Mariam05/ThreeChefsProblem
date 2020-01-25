@@ -1,9 +1,17 @@
 # ASSIGNMENT 1: The Sandwich Making Chefs Problem :hamburger:
 
+### UML Class Diagram 
+This can also be found as a png file in the project zip file. 
+![UML](ThreeChefsUML.png)
+
+### UML Sequence Diagram
+This can also be found as a png file in the project zip file.
+![UML](ThreeChefsSequence.png)
+
 ### Naming and Organization of Files
 
 #### Execution Instructions
-You may either execute the program via the .jar file or by running the program directly in eclipse. The class that contains the main method to run is called "Main". All source files are in the jar file.
+You may either execute the program via the .jar file (typing 'java -jar SYSC3303A1MariamA' on the cmd line) or by running the program directly in eclipse. The class that contains the main method to run is called "Main". All source files are in the jar file and also in the project folder (zipped). 
 
 #### Main
 This program's main class acts as the producerConsumer class. It simply consists of the main method that creates the components of the three chefs problem (the table, the agent, and the three chefs). It then starts all the required threads (agent and chefs).

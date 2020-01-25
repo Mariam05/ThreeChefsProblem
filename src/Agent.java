@@ -49,7 +49,7 @@ public class Agent implements Runnable {
 		}
 
 		table.done = true; // signal the finishing of the table 
-
+	
 	}
 
 }
